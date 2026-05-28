@@ -14,3 +14,16 @@ let a=Boolean(undefined)
 console.log(a)
 //1,2...,"yash"=>true in boolean convrsion
 //null,undefined,0,""=>false
+
+// *************** Operations ****************
+let value= 3
+let negValue=-value
+//operations in console possible, +,-,*,**(for pow eg 2**3),/,%
+let str1="hello"
+let str2=" yash"
+let str3=str1+str2
+//+true=1,+""=0,true+=error,"1"+2=1+"2"=12,"1"+2+2=122,1+2+"2"=32,
+// 
+//operation precidence
+//
+
